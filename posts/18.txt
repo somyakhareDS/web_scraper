@@ -1,0 +1,4 @@
+Company Name: FresherMart 
+Required Skills: python,django,DjangoFramework 
+More Info: <a href="https://www.timesjobs.com/job-detail/python-developer-freshermart-navi-mumbai-mumbai-0-to-1-yrs-jobid-PUYMPEa4NaFzpSvf__PLUS__uAgZw==&amp;source=srp" onclick="logViewUSBT('view','65499583','python  ,  django  ,   Django Framework','Navi Mumbai,  Mumbai','0 - 1','IT Software : Software Products &amp; Services','19' )" target="_blank">
+<strong class="blkclor">Python</strong> Developer</a>

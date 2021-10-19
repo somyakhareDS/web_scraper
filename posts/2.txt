@@ -1,0 +1,4 @@
+Company Name: GeminiSolutions 
+Required Skills: python,mobile,svn,nosql,pythonscripting,git,api,sqldatabase 
+More Info: <a href="https://www.timesjobs.com/job-detail/qa-python-python-sdet-gemini-solutions-gurgaon-4-to-7-yrs-jobid-eGMLzwOk2QlzpSvf__PLUS__uAgZw==&amp;source=srp" onclick="logViewUSBT('view','65999563','python  ,  mobile  ,  svn  ,  nosql  ,  python scripting  ,  git  ,  api  ,  sql database','Gurgaon','4 - 7','IT Software : Software Products &amp; Services','3' )" target="_blank">
+      QA <strong class="blkclor">Python</strong> / <strong class="blkclor">Python</strong> SDET</a>
